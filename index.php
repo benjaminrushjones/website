@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Benjamin Jones</title>
+    <title>Benjamin Jones</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Website Navigation</title>
     <style>
         /* Basic CSS for navigation */
         body {
@@ -61,7 +54,7 @@
 
 <div class="navbar">
     <ul>
-        <li"><a href="about.php">about</a></li>
+        <li><a href="about.php">about</a></li>
         <li><a href="random.php">random</a></li>
         <li><a href="investments.php">investments</a></li>
         <li><a href="https://twitter.com/itsbenjones">contact</a></li>

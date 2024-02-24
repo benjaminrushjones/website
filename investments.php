@@ -1,20 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>investments</title>
+    <title>investments</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-
-
-<div style="margin-left: 200px; padding: 20px;">
-    <!-- Your website content goes here -->
-    <h1>investments</h1>
-    <p>Boston, MA</p>
-</div>
-
-    <title>Website Navigation</title>
     <style>
         /* Basic CSS for navigation */
         body {
@@ -63,15 +54,20 @@
 
 <div class="navbar">
     <ul>
-        <li"><a href="about.php">about</a></li>
+        <li><a href="about.php">about</a></li>
         <li><a href="random.php">random</a></li>
         <li><a href="investments.php">investments</a></li>
         <li><a href="https://twitter.com/itsbenjones">contact</a></li>
     </ul>
 </div>
 
+<div style="margin-left: 200px; padding: 20px;">
+    <!-- Your website content goes here -->
+    <h1>investments</h1>
+    <p>Boston, MA</p>
+</div>
 
-<ul style="margin-left: 200px; padding 20px;">
+<ul style="margin-left: 200px; padding: 20px;"> <!-- Fixed style attribute -->
     <li><a href="https://www.beehiiv.com/">beehiiv :)</a></li>
     <li><a href="https://www.copilot.money/">Copilot :)</a></li>
     <li><a href="https://www.convertkit.com/">ConvertKit :)</a></li>
@@ -81,10 +77,9 @@
     <!-- Add more list items as needed for each of your investments -->
 </ul>
 
-<ul style="margin-left: 200px; padding 20px; margin-top: 300px;">
-    <a>:( = insolvent (basically)</a>
-    <br>
-    <a>:) = tracking well!</a>
+<ul style="margin-left: 200px; padding: 20px; margin-top: 300px;">
+    <li>:( = insolvent (basically)</li> <!-- Changed from <a> to <li> -->
+    <li>:) = tracking well!</li> <!-- Changed from <a> to <li> -->
 </ul>
 
 <div style="margin-left: 600px; padding: 20px; margin-top: 128px">
@@ -92,8 +87,4 @@
 </div>
 
 <div class="gif-container">
-    <iframe src="https://giphy.com/embed/xUPGcm7GWJVjYWfFXG" width="280" height="280" frameBorder="0" class="giphy-embed">
-</div>
-
-</body>
-</html>
+    <iframe src="https://giphy.com/embed/xUPGcm7GWJVjYWfFXG" width="280" height="280" frameBorder="0" class="giphy-embed"></iframe> 
