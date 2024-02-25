@@ -88,3 +88,7 @@
 
 <div class="gif-container">
     <iframe src="https://giphy.com/embed/xUPGcm7GWJVjYWfFXG" width="280" height="280" frameBorder="0" class="giphy-embed"></iframe> 
+</div>
+
+</body>
+</html>

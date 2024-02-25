@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Benjamin Jones</title>
+    <title>Benjamin Jones</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Website Navigation</title>
     <style>
         /* Basic CSS for navigation */
         body {
@@ -61,7 +54,7 @@
 
 <div class="navbar">
     <ul>
-        <li"><a href="about.php">about</a></li>
+        <li><a href="about.php">about</a></li>
         <li><a href="random.php">random</a></li>
         <li><a href="investments.php">investments</a></li>
         <li><a href="https://twitter.com/itsbenjones">contact</a></li>
@@ -74,7 +67,7 @@
     <p>Boston, MA</p>
 </div>
 
-<ul style="margin-left: 200px; padding 20px;">
+<ul style="margin-left: 200px; padding: 20px;"> <!-- Fixed style attribute -->
     <li><a href="https://www.endstate.io/">Endstate</a></li>
     <li><a href="https://www.airbnb.com/h/therounduphouse">Airbnb</a></li>
     <li><a href="https://www.smbc.com/">SMBC</a></li>
@@ -84,10 +77,10 @@
 </ul>
 
 <div style="margin-left: 600px; padding: 20px; margin-top: 500px">
-    <h6 style= "color: green;">Designed in Boston.</h6>
+    <h6 style="color: green;">Designed in Boston.</h6> <!-- Fixed style attribute -->
 </div>
 
-    <div style="position: fixed; top: 20px; right: 20px;">
+<div style="position: fixed; top: 20px; right: 20px;">
     <img src="images/goodpic4.jpg" alt="Description" width="280" height="400">
 </div>
 

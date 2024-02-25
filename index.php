@@ -72,7 +72,7 @@
 </div>
 
 <div class="gif-container">
-    <iframe src="https://giphy.com/embed/3o7btTXu1UEfyuhf3O" width="280" height="280" frameBorder="0" class="giphy-embed">
+    <iframe src="https://giphy.com/embed/3o7btTXu1UEfyuhf3O" width="280" height="280" frameBorder="0" class="giphy-embed"></iframe>
 </div>
 
 </body>

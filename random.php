@@ -1,18 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Benjamin Jones</title>
+    <title>Benjamin Jones</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Website Navigation</title>
     <style>
         /* Basic CSS for navigation */
         body {
@@ -61,7 +54,7 @@
 
 <div class="navbar">
     <ul>
-        <li"><a href="about.php">about</a></li>
+        <li><a href="about.php">about</a></li>
         <li><a href="random.php">random</a></li>
         <li><a href="investments.php">investments</a></li>
         <li><a href="https://twitter.com/itsbenjones">contact</a></li>
@@ -73,22 +66,22 @@
     <h1>random</h1>
 </div>
 
-<ul style="margin-left: 200px; padding 20px;">
-    <li>Minted New York</a></li>
-    <li>Ironman</a></li>
-    <li>Cervelo</a></li>
-    <li>Dominos Rolex</a></li>
-    <li>Movies: Prisoners, Talented Mr. Ripley, The Social Network, White House Down, Along Came Polly</a></li>
-    <li>CEOs: Savneet Singh, Zuck, Sahil Lavingia, Palmer Luckey</a></li>
-    <li>Gasoline delivery services: Gallo Fueling</a></li>
+<ul style="margin-left: 200px; padding: 20px;"> <!-- Fixed style attribute -->
+    <li>Minted New York</li>
+    <li>Ironman</li>
+    <li>Cervelo</li>
+    <li>Dominos Rolex</li>
+    <li>Movies: Prisoners, Talented Mr. Ripley, The Social Network, White House Down, Along Came Polly</li>
+    <li>CEOs: Savneet Singh, Zuck, Sahil Lavingia, Palmer Luckey</li>
+    <li>Gasoline delivery services: Gallo Fueling</li>
 </ul>
 
 <div style="margin-left: 500px; padding: 20px; margin-bottom: 25px">
-    <h6 style= "color: green;">Designed in Boston.</h6>
+    <h6 style="color: green;">Designed in Boston.</h6> <!-- Fixed style attribute -->
 </div>
 
 <div class="gif-container">
-    <iframe src="https://giphy.com/embed/3oEduZoahEKwduyum4" width="280" height="280" frameBorder="0" class="giphy-embed">
+    <iframe src="https://giphy.com/embed/3oEduZoahEKwduyum4" width="280" height="280" frameBorder="0" class="giphy-embed"></iframe> <!-- Added closing iframe tag -->
 </div>
 
 </body>
